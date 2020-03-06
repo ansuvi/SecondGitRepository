@@ -1,1 +1,2 @@
-This is my first file in second git repository
+This is my first file in second git repository.
+I am learing Git
